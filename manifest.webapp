@@ -1,0 +1,17 @@
+{
+  "version": "1.1",
+  "name": "Hasanti",
+  "description": "A jokes application",
+  "launch_path": "/index.html",  
+  "icons": {
+    "512": "/img/icon-512.png",
+    "128": "/img/icon-128.png"
+  },  
+  "developer": {
+    "name": "Paras Nath Chaudhary",
+    "url": "http://hasanti.tuxkiddos.com/"
+  },
+  "installs_allowed_from": ["*"],
+  "default_locale": "en"
+ 
+}

@@ -1,0 +1,42 @@
+
+img#splash_image{
+	position: absolute;
+	top:90px;
+	left:20px;
+	margin: 8px;
+	width: 260px;
+	height: auto;
+}
+#version{
+	position: absolute;
+	top:350px;
+	left:140px;
+}
+#jokesListView{
+	padding-left: 8px;
+	padding-right: 8px;
+	padding-top: 8px;
+}
+#jokesListView li{
+	border-bottom: 1px solid #cecece;
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+
+#categoriesListView li{
+	border-bottom: 1px solid #cecece;
+	padding-top: 6px;
+	padding-bottom: 6px;	
+}
+#jokesListView li:last-child,#categoriesListView  li:last-child{
+	border-bottom: none;
+}
+#loadMore{
+	margin-top:20px;
+	display: none;
+}
+#aboutcontent{
+	width: 260px;
+	margin:auto;
+	text-align: center;
+}
